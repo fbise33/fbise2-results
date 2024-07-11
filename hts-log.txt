@@ -1,0 +1,32 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 10 Jul 2024 15:26:16 at https://www.fbise.edu.pk/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.fbise.edu.pk/ -O1 "F:\fbise2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:21:21	Warning: 	Link https://www.fbise.edu.pk/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+16:52:28	Error: 	"Not Found" (404) at link https://www.fbise.edu.pk/img/class/10.jpg (from https://www.fbise.edu.pk/4.php)
+16:52:28	Error: 	"Not Found" (404) at link https://www.fbise.edu.pk/img/class/11.jpg (from https://www.fbise.edu.pk/4.php)
+16:52:28	Error: 	"Not Found" (404) at link https://www.fbise.edu.pk/img/class/12.jpg (from https://www.fbise.edu.pk/4.php)
+16:53:02	Error: 	"Not Found" (404) at link https://www.fbise.edu.pk/scholarships/2007/MERIT SCHOLARSHIP LIST – SSC ANNUAL EXAMINATION 2007.pdf (from https://www.fbise.edu.pk/scholarships.php)
+18:04:27	Error: 	"Cancelled by User" (-1) at link https://www.fbise.edu.pk/Downloads/34th_Medal_Award_Ceremony.pdf (from https://www.fbise.edu.pk/press_awards.php)
+18:04:27	Error: 	"Not Found" (404) at link https://www.fbise.edu.pk/img/close.gif (from https://www.fbise.edu.pk/css/venobox.css)
+18:04:27	Error: 	"Not Found" (404) at link https://www.fbise.edu.pk/img/banner/3.jpg (from https://www.fbise.edu.pk/css/style.css)
+18:04:27	Error: 	"Not Found" (404) at link https://www.fbise.edu.pk/img/banner/4.jpg (from https://www.fbise.edu.pk/css/style.css)
+18:04:27	Error: 	"Not Found" (404) at link https://www.fbise.edu.pk/img/banner/6.jpg (from https://www.fbise.edu.pk/css/style.css)
+18:10:16	Error: 	"Not Found" (404) at link https://www.fbise.edu.pk/Downloads/Rubrics/2023/HSSC_II_1ST_2023/Chemistry/chem-II/Chemistry rubrics HSSC-II (L)-2023.pdf (from https://www.fbise.edu.pk/Old Question Paper.php)
+18:10:16	Error: 	"Not Found" (404) at link https://www.fbise.edu.pk/Downloads/Rubrics/2023/HSSC_II_1ST_2023/Chemistry/chem-II/Chemistry-II HSSC (HA).pdf (from https://www.fbise.edu.pk/Old Question Paper.php)
+18:10:16	Error: 	"Not Found" (404) at link https://www.fbise.edu.pk/Old Question Paper/2023/HSSC_II_1ST_2023/Computer Science.pdf (from https://www.fbise.edu.pk/Old Question Paper.php)
+18:10:16	Error: 	"Not Found" (404) at link https://www.fbise.edu.pk/Downloads/Rubrics/2023/HSSC_II_1ST_2023/English/English HSSC-II (L).pdf (from https://www.fbise.edu.pk/Old Question Paper.php)
+18:10:16	Error: 	"Not Found" (404) at link https://www.fbise.edu.pk/Downloads/Rubrics/2023/HSSC_II_1ST_2023/English/English HSSC-II (HA) - Final.pdf (from https://www.fbise.edu.pk/Old Question Paper.php)
+18:10:16	Error: 	"Not Found" (404) at link https://www.fbise.edu.pk/OLD_QUESTION_PAPER_2022/URDU (HA).pdf (from https://www.fbise.edu.pk/Old Question Paper.php)
+18:10:16	Error: 	"Cancelled by User" (-1) at link https://www.fbise.edu.pk/Syllabus/SSC-I/Islamiyat SSC-I (Single National Curriculum 2022)-1.pdf (from https://www.fbise.edu.pk/syllabusSSC-I.php)
+18:10:16	Error: 	"Not Found" (404) at link https://www.fbise.edu.pk/Syllabus/SSC-IInroduction_to_tourism.pdf/ (from https://www.fbise.edu.pk/syllabusSSC-I.php)
+18:10:16	Error: 	"Not Found" (404) at link https://www.fbise.edu.pk/Syllabus/HSSC-I/BUSINESS MATHEMATICS1.pdf (from https://www.fbise.edu.pk/syllabusHSSC-I.php)
+18:10:16	Error: 	"Not Found" (404) at link https://www.fbise.edu.pk/Syllabus/HSSC-I/Dental Hygiene.PDF (from https://www.fbise.edu.pk/syllabusHSSC-I.php)
+18:10:16	Error: 	"Not Found" (404) at link https://www.fbise.edu.pk/Syllabus/HSSC-II/Arabic Persian and French/5-Persian-Nisab.pdf (from https://www.fbise.edu.pk/syllabusHSSC-II.php)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 hours 44 minutes 2 seconds : 1565 links scanned, 1544 files written (3102223033 bytes overall) [3168773437 bytes received at 321964 bytes/sec], 4892057 bytes transferred using HTTP compression in 128 files, ratio 24%, 7.8 requests per connection
+(20 errors, 1 warnings, 0 messages)
